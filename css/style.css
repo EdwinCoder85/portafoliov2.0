@@ -179,30 +179,57 @@ figure {
 /************************ SIDEBAR *********************/
 .sidebar__flags {
   width: 100%;
-  max-width: 60px;
+  max-width: 50px;
   position: fixed;
   left: 0;
-  top: 40%;
+  top: 35%;
   z-index: 3;
-}
-.sidebar__item {
-  display: block;
-  padding: 15px;
-  font-size: 17px;
-  position: relative;
-  transition: all 500ms ease;
   cursor: pointer;
 }
-.sidebar__item:hover {
-  background: var(--text-title);
-}
-.flags__es {
+.flag__es {
   background: #00ffbf;
   border-top-right-radius: 10px;
 }
-.flags__gb {
+.flag__gb {
   background: #ff0000;
   border-bottom-right-radius: 10px;
+}
+.sidebar__networks {
+  width: 100%;
+  max-width: 50px;
+  position: fixed;
+  left: 0;
+  top: 50%;
+  z-index: 3;
+  cursor: pointer;
+}
+.network__linkedin {
+  background: #0073b1;
+  border-top-right-radius: 10px;
+}
+.network__whatsapp {
+  background: #4dc247;
+}
+.network__telegram {
+  background: #0088cc;
+}
+.network__github {
+  background: #161616;
+}
+.network__gitlab {
+  background: #784ac8;
+  border-bottom-right-radius: 10px;
+}
+.sidebar__item {
+  display: block;
+  padding: 10px;
+  font-size: 17px;
+  position: relative;
+  transition: transform 150ms ease;
+}
+.sidebar__item:hover {
+  background: var(--shadow-button);
+  transform: scale(1.15);
 }
 /************************ HEADER *********************/
 .header {
