@@ -1,0 +1,70 @@
+{
+  "header": {
+    "option1": "About me",
+    "option2": "Abilities",
+    "option3": "Projects",
+    "option4": "Studies",
+    "option5": "Contact me"
+  },
+  "about-me": {
+    "main-title": "Hello, I'm Edwin Amaranto",
+    "title": "About me",
+    "rol": "Your Frontend Developer",
+    "description": "Natural of the City of Chimbote, Country of Peru; and graduated from the National University of Santa where he graduated as a Systems and Computer Engineer, currently a student of the Academlo Bootcamp and lover of programming technologies. My favorite hobbies are: daily programming in frontend languages, going for a walk, watching action, horror and sci-fi movies, going to the gym in the evenings, researching new programming technologies, reading self-improvement and financial education books. Within my soft skills I am characterized by: having a high sense of responsibility, having a work ethic, working in a team and under pressure, easily acquiring responsibilities, being a creative young professional, working results-oriented, easily adapting to any position or role assigned to me, maintain adequate interpersonal relationships in the work environment. Likewise, facing environments of uncertainty, and decision-making and adaptability, as well as the capacity for analysis, synthesis and organization.",
+    "curriculum": "Download my resume"
+  },
+  "abilities": {
+    "title": "Abilities",
+    "subtitle1": "Techniques",
+    "subtitle2": "Soft",
+    "ability1": "Adaptable",
+    "ability2": "Collaborator",
+    "ability3": "Creative",
+    "ability4": "Results oriented",
+    "ability5": "In focus"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Main Projects",
+    "project6": "It is a web application developed with a front-end that allows you to display the catalog of available products, make purchases, add to the shopping cart, see details of the product to select, as well as log in and out through an API. For the construction of the app, libraries such as: Axios, React Hook Form, React Router and React Redux were used.",
+    "project5": "It is a web application developed with a front-end that allows you to search for the Pokémon by category and by name, see the detailed information of our searched pokemon through an API. For the construction of the app, libraries such as: Axios, React Router and React Redux were used.",
+    "project4": "A web application developed with front-end that allows to create, delete and modify users through an API, through all http methods. For the construction of the app, the library was used as: Axios and React Hook Form.",
+    "label1": "Access the App",
+    "label2": "Download code"
+  },
+  "studies": {
+    "title": "Studies",
+    "subtitle1": "Degrees academics",
+    "subtitle2": "Diplomas and Courses",
+    "subtitle3": "BootCamp",
+    "study1": "Graduated from the Master's in Information Technology Management",
+    "study2": "Systems and IT Engineer",
+    "study3": "Bachelor of Systems Engineering and Informatics",
+    "study4": "Diploma in Project Management",
+    "study5": "Diploma in Database Management",
+    "study6": "Course in Design Thinking",
+    "study7": "Course in Project Management with Agile Methodologies and Lean Approaches",
+    "study8": "Oracle Database Administration Course",
+    "study9": "Course on PowerBuilder Enterprise v2017",
+    "study10": "Web Application Developer Course",
+    "study11": "Course in Windows Solution Development with C#",
+    "study12": "Academlo"
+  },
+  "contact-me": {
+    "title": "Contact Me",
+    "subtitle": "More information",
+    "label1": "Name and surname",
+    "label2": "Email",
+    "label3": "Cell phone number",
+    "label4": "Affair",
+    "label5": "Message",
+    "label6": "Send",
+    "label7": "Chimbote, Ancash, Perú",
+    "label8": "(+51) 954 647 683",
+    "label9": "edwinamarantovillegas@gmail.com",
+    "paragraph": "Also communicate or contact me through my social networks."
+  },
+  "footer": {
+    "title": "Social Networks"
+  }
+}

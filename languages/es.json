@@ -1,0 +1,70 @@
+{
+  "header": {
+    "option1": "Acerca de mi",
+    "option2": "Habilidades",
+    "option3": "Proyectos",
+    "option4": "Estudios",
+    "option5": "Contactame"
+  },
+  "about-me": {
+    "main-title": "Hola, Soy Edwin Amaranto",
+    "title": "Acerca de mi",
+    "rol": "Tu Desarrollador Frontend",
+    "description": "Natural de la Ciudad de Chimbote, País de Perú; y egresado de la Universidad Nacional del Santa en donde me gradúe como Ingeniero de Sistemas e Informática, actualmente estudiante del Bootcamp de Academlo y amante de las tecnologías de la programación. Mis pasatiempos favoritos son: programar diariamente en lenguajes de frontend, salir a caminar, ver películas del género de acción, terror y ciencia ficción, ir al gimnasio por las tardes, investigar nuevas tecnologías en programación, leer libros de superación personal y educación financiera. Dentro de mis habilidades blandas me caracterizo por: tener alto sentido de la responsabilidad, tener ética laboral, trabajar en equipo y bajo presión, adquirir responsabilidades fácilmente, ser un joven profesional creativo, trabajar orientado a resultados, adaptarme con facilidad a cualquier puesto o función que me asignen, mantener adecuadas relaciones interpersonales en el entorno laboral. Asimismo, enfrentar a entornos de incertidumbre, y de toma de decisiones y adaptabilidad, además de capacidad de análisis, síntesis y organización.",
+    "curriculum": "Descarga mi curriculo"
+  },
+  "abilities": {
+    "title": "Habilidades",
+    "subtitle1": "Técnicas",
+    "subtitle2": "Blandas",
+    "ability1": "Adaptable",
+    "ability2": "Colaborador",
+    "ability3": "Creativo",
+    "ability4": "Orientado a resultados",
+    "ability5": "Enfocado"
+  },
+  "projects": {
+    "title": "Portafolio",
+    "subtitle": "Proyectos Principales",
+    "project6": "Es una aplicación web desarrollada con front-end que permite mostrar el catálogo de productos disponibles, realizar compras, añadir al carrito de comprar, ver detalle del producto a seleccionar, así como iniciar y cerrar sesión a través de una API. Para la construcción del app se usaron librerías como: Axios, React Hook Form, React Router y React Redux.",
+    "project5": "Es una aplicación web desarrollada con front-end que permite buscar al Pokémon por categoría y por nombre, ver la información detallada de nuestro pokemon buscado a través de una API. Para la construcción del app se usaron librerías como: Axios, React Router y React Redux.",
+    "project4": "Una aplicación web desarrollada con front-end que permite crear, eliminar y modificar usuarios a través de una API, a través de todos los métodos http. Para la construcción del app se uso la librería como: Axios y React Hook Form.",
+    "label1": "Accede al App",
+    "label2": "Descargar código"
+  },
+  "studies": {
+    "title": "Estudios",
+    "subtitle1": "Grados Académicos",
+    "subtitle2": "Diplomados y Cursos",
+    "subtitle3": "BootCamp",
+    "study1": "Egresado de la Maestria en Gestión de Tecnologías de la Información",
+    "study2": "Ingeniero de Sistemas e Informática",
+    "study3": "Bachiller en Ingeniería de Sistemas e Informática",
+    "study4": "Diplomado en Gerencia de Proyectos",
+    "study5": "Diplomado en Gestión de Base de Datos",
+    "study6": "Curso en Design Thinking",
+    "study7": "Curso en Gestión de Proyectos con Metodologías Ágiles y Enfoques Lean",
+    "study8": "Curso en Administración de BD en Oracle",
+    "study9": "Curso en PowerBuilder Enterprise v2017",
+    "study10": "Curso en Desarrollador de Aplicaciones Web",
+    "study11": "Curso en Desarrollo de Soluciones Windows con C#",
+    "study12": "Academlo"
+  },
+  "contact-me": {
+    "title": "Contactame",
+    "subtitle": "Más Información",
+    "label1": "Nombre y Apellido",
+    "label2": "Correo electrónico",
+    "label3": "Número de Celular",
+    "label4": "Asunto",
+    "label5": "Mensaje",
+    "label6": "Enviar",
+    "label7": "Chimbote, Ancash, Perú",
+    "label8": "(+51) 954 647 683",
+    "label9": "edwinamarantovillegas@gmail.com",
+    "paragraph": "También comunicame o contactame a través de mis redes sociales."
+  },
+  "footer": {
+    "title": "Redes sociales"
+  }
+}
